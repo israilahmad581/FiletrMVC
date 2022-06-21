@@ -1,0 +1,18 @@
+1. Change the Connection strings in web config class
+2. Update the migration from tolls  in nuGet package manager console....> Update-Database –verbose
+recompile and run 
+
+3 after migration there will be a database created from codefirst module with twotable.
+
+4 login with username Israil and password pwd
+
+5 there will be a page open  where user can insert the data.
+
+6 if user login other it than it shows a page UnAuthorized page 
+
+please follow the above instructions.
+
+
+
+
+
